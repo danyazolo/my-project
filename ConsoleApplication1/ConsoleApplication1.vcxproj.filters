@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FileName.c">
+    <ClCompile Include="зукName.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="FileNae.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

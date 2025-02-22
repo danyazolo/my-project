@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\my-project\\ConsoleApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5EAAADB1-4A06-4239-9E43-7CE069C0F551}|ConsoleApplication1.vcxproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\my-project\\ConsoleApplication1\\FileNae.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5EAAADB1-4A06-4239-9E43-7CE069C0F551}|ConsoleApplication1.vcxproj|solutionrelative:FileNae.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5EAAADB1-4A06-4239-9E43-7CE069C0F551}|ConsoleApplication1.vcxproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\my-project\\ConsoleApplication1\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5EAAADB1-4A06-4239-9E43-7CE069C0F551}|ConsoleApplication1.vcxproj|solutionrelative:FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FileNae.c",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\my-project\\ConsoleApplication1\\FileNae.c",
+              "RelativeDocumentMoniker": "FileNae.c",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\my-project\\ConsoleApplication1\\FileNae.c*",
+              "RelativeToolTip": "FileNae.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-19T21:41:06.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FileName.c",
               "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\my-project\\ConsoleApplication1\\FileName.c",
               "RelativeDocumentMoniker": "FileName.c",
               "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\my-project\\ConsoleApplication1\\FileName.c",
               "RelativeToolTip": "FileName.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-13T22:21:32.522Z",
               "EditorCaption": ""
