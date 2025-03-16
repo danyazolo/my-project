@@ -1,7 +1,0 @@
-insert last_name=Иванов,first_name=Иван,middle_name=Иванович,number=+79123456789,money=150.50,min_money=100.00,status=normal
-insert last_name=Петров,first_name=Петр,middle_name=Петрович,number=+79221112233,money=50.00,min_money=100.00,status=only_incoming_calls
-select_all
-select_low_balance
-update_money number=+79123456789,new_money=500.00
-delete number=+79221112233
-
