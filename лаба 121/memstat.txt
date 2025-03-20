@@ -1,5 +1,0 @@
-malloc:5
-realloc:0
-calloc:0
-free:0
- 

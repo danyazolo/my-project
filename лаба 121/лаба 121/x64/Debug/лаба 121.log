@@ -1,5 +1,0 @@
-﻿  FileName.c
-C:\Users\Пользователь\source\repos\лаба 121\FileName.c(96,25): warning C4305: *=: усечение из "double" в "float"
-C:\Users\Пользователь\source\repos\лаба 121\FileName.c(73,22): warning C4305: инициализация: усечение из "double" в "float"
-C:\Users\Пользователь\source\repos\лаба 121\FileName.c(35,1): warning C4715: enum_to_string: значение возвращается не при всех путях выполнения
-  лаба 121.vcxproj -> C:\Users\Пользователь\source\repos\лаба 121\x64\Debug\лаба 121.exe

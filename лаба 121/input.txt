@@ -1,6 +1,0 @@
-insert last_name=Smit.......h,first_name=John,middle_name=Edward,number=+14151234567,money=1500.75,min_money=500.00,status=normal
-insert last_name=Johnson,first_name=Robert,middle_name=Michael,number=+14263456789,money=200.00,min_money=500.00,status=only_incoming_calls
-insert last_name=Williams,first_name=James,middle_name=Christopher,number=+14374561234,money=3000.00,min_money=1000.00,status=no_calls
-insert last_name=Brown,first_name=William,middle_name=Alexander,number=+14455671234,money=100.00,min_money=100.00,status=disabled
-insert last_name=Taylor,first_name=David,middle_name=Patrick,number=+14566781234,money=2500.50,min_money=1500.00,status=normalinsert last_name=Sidorov,first_name=Sergey,middle_name=Sergeevich,number=+79161234569,money=0.00,min_money=100,status=disabled
-select last_name,first_name,status money>100
